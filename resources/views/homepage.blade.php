@@ -16,7 +16,7 @@
       
     @endif
 
-    <img src="{{url('img/Sigourney_Weaver.jpg')}}" alt="">
+    <img class="profile" src="{{url('img/Sigourney_Weaver.jpg')}}" alt="">
     <h2>Oggi parliamo dell'attrice : {{$name}} {{$lastname}}</h2>
     <h3>ecco alcuni dei sui film:</h3>
 
