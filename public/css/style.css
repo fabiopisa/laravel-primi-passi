@@ -1,0 +1,39 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color:#252526 ;
+  color: #FFFFFF;
+  text-align: center;
+}
+.container{
+  width: 60%;
+  margin: 30px auto;
+}
+ul{
+  list-style: none;
+}
+li{
+  line-height: 30px;
+}
+img{
+  height: 400px;
+  width: 270px;
+}
+a{
+  text-decoration: none;
+  color: #2E994F
+}a:hover{
+  color: rgb(255, 115, 0);
+}
+a:active{
+  color: #3A4E99;
+}
+p{
+  margin: 25px 0;
+}
+h2{
+  margin-top: 25px;
+}
